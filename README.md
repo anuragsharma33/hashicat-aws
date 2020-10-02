@@ -1,5 +1,5 @@
 # hashicat-aws
-Hashicat: A terraform built application for use in Hashicorp workshops
+Hashicat: A terraform built application for use in Hashicorp workshops, a perfect satisfaction 
 
 Includes "Meow World" website.
 
